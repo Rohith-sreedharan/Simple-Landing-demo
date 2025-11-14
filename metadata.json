@@ -1,0 +1,5 @@
+{
+  "name": "HMPS & Associates - Corporate Compliance Services",
+  "description": "A comprehensive web application for HMPS & Associates, offering ROC, GST, and ITR filing services with integrated Razorpay payments. Features a modern UI built with ShadCN components and a royal blue theme.",
+  "requestFramePermissions": []
+}
